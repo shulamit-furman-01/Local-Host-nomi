@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Hello Nomi rozen..
 7
 8
 9
+=======
+Hello Nomi rozen.. have a good day
+6
+7
+8
+>>>>>>> refs/remotes/origin/master
